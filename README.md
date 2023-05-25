@@ -14,4 +14,5 @@ Spesifikasi:
 ## Alur Program
 
 ## Dokumentasi
+https://github.com/amizulfa/LP9DPBO2023C1/assets/100895165/f4df5509-e1bf-4383-8b93-120849935042
 
