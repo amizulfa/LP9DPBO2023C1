@@ -12,10 +12,10 @@ Spesifikasi:
 - Tambahin 1 metode yang masih relevan untuk setiap kelas
 
 ## Alur Program
-- User menekan tombol ``` lihat data residen``` di Landing Page, sehingga muncul tampilan seluruh data residen.
-- User menekan tombol ```detail``` lalu akan menampilkan detail dari residen tersebut serta menampilkan gambar.
-- User menekan tombol ```close``` untuk keluar dari tampilan detail.
-- User menekan tombol ```exit``` untuk keluar dari tampilan data residen.
+- User menekan tombol ```Lihat Data Residen``` di Landing Page, sehingga muncul tampilan seluruh data residen.
+- User menekan tombol ```Detail``` lalu akan menampilkan detail dari residen tersebut serta menampilkan gambar.
+- User menekan tombol ```Close``` untuk keluar dari tampilan detail.
+- User menekan tombol ```Exit``` untuk keluar dari tampilan data residen.
 ## Dokumentasi
 - Landing Page
 <img width="424" alt="image" src="https://github.com/amizulfa/LP9DPBO2023C1/assets/100895165/cbba19dc-fb29-4921-b6fe-1c86bfb3bfb4">
