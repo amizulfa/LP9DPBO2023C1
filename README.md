@@ -30,8 +30,6 @@ Spesifikasi:
 
 https://github.com/amizulfa/LP9DPBO2023C1/assets/100895165/0b8e0cf7-d41c-40cb-93d5-ff4b796088f2
 
-- bukti mencoba kode memakai database
-<img width="960" alt="image" src="https://github.com/amizulfa/LP9DPBO2023C1/assets/100895165/e016b63a-c401-4e0d-8fe9-6fd699d571f6">
 
 
 
